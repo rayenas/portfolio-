@@ -18,7 +18,7 @@ export default function About() {
           Full Stack Developer & Video Editor. I build clean, scalable web apps and craft engaging video content.
         </p>
         <a
-          href="/Rayen_ASKRI_CV.pdf"
+          href="/Rayen_ASKRI_CV (2).pdf"
           target="_blank"
           className="inline-block mt-4 px-6 py-3 bg-foreground text-background font-medium rounded-lg hover:opacity-90 transition"
         >
